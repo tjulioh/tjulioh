@@ -1,16 +1,12 @@
-### Hi there 👋
+Bem vindo ao Meu GitHub
 
-<!--
-**tjulioh/tjulioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Buscando novas tecnologías, sempre aprendendo e desenvolvendo
+De uma olhada na [Minha Página](https://tjulioh.dev/).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Algumas áreas ao qual tenho entusiasmo:
+ 
+ * Código Aberto;
+ * Linux;
+ * PostgreSQL, MySQL e MongoDB;
+ * Java, JavaScript e Python;
+ * HTML e CSS.
