@@ -1,6 +1,6 @@
 Bem vindo ao Meu GitHub
 
-### Buscando novas tecnologías, sempre aprendendo e desenvolvendo
+### Buscando novas tecnologias, sempre aprendendo e desenvolvendo
 De uma olhada na [Minha Página](https://tjulioh.dev/).
 
 Algumas áreas ao qual tenho entusiasmo:
