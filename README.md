@@ -7,6 +7,6 @@ Algumas áreas ao qual tenho entusiasmo:
  
  * Código Aberto;
  * Linux;
- * PostgreSQL, MySQL e MongoDB;
- * Java, JavaScript, Python, PHP e NodeJS;
- * HTML, SCSS e CSS.
+ * PostgreSQL e MongoDB;
+ * Java, JavaScript, Python e NodeJS;
+ * HTML e CSS.
